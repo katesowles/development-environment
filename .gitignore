@@ -1,0 +1,39 @@
+/.cache/
+/.config/
+/.cups/
+/.dropbox/
+/.macro/
+/.mume/
+/.node-gyp/
+/.npm/
+/.npm-packages/
+/.oh-my-zsh/
+/.oh-my-zsh--custom/custom/plugins/
+/.oh-my-zsh--custom/custom/themes/
+/.ssh/
+/.Trash/
+/.vscode/
+/Applications/
+/Creative Cloud Files/
+/Desktop/
+/Documents/
+/Downloads/
+/iCloud Drive (Archive)/
+# yes, both "/Library/" and "Library/"
+/Library/
+Library/
+/Movies/
+/Music/
+/Pictures/
+/projects/
+/Public/
+.CFUserTextEncoding
+.DS_Store
+.gitconfig
+.gitconfig.swp
+.node_repl_history
+.npmrc
+.viminfo
+.yarnrc
+.zcompdump-*
+.zsh_history
