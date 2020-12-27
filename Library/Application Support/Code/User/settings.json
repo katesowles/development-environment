@@ -1,0 +1,119 @@
+{
+  //////////////////////////////////////////////////////////////////////////////
+  // GENERAL EDITOR SETTINGS ///////////////////////////////////////////////////
+  //////////////////////////////////////////////////////////////////////////////
+
+  // font settings
+  "editor.fontFamily": "'Dank Mono', Menlo, Monaco, 'Courier New', monospace",
+  "editor.fontLigatures": false,
+  "editor.fontSize": 16,
+  "editor.minimap.enabled": false,
+  "editor.renderControlCharacters": false,
+  "editor.renderWhitespace": "all",
+
+  // tabs vs spaces / line length settings
+  "editor.detectIndentation": false,
+  "editor.insertSpaces": true,
+  "editor.tabSize": 2,
+  "editor.rulers": [80, 120],
+
+  // editor behavior settings
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  // "editor.codeActionsOnSave": null
+
+  // fresh-open default settings
+  "workbench.colorTheme": "Eva Dark",
+  "workbench.editor.labelFormat": "medium",
+  "workbench.activityBar.visible": true,
+  "workbench.sideBar.location": "left",
+  "workbench.startupEditor": "newUntitledFile",
+  "workbench.statusBar.visible": true,
+  "workbench.tips.enabled": false,
+  "window.openFilesInNewWindow": "on",
+  "window.openFoldersInNewWindow": "on",
+  "window.restoreWindows": "folders",
+  "window.zoomLevel": 1,
+
+  // breadcrumb settings
+  "breadcrumbs.enabled": true,
+  "breadcrumbs.icons": false,
+
+  // diff editor settings
+  "diffEditor.renderSideBySide": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+
+  // search settings
+  "search.showLineNumbers": true,
+
+  // terminal settings
+  "terminal.integrated.fontFamily": "'Dank Mono', Menlo, Monaco, 'Courier New', monospace",
+  "terminal.integrated.shell.osx": "/bin/zsh",
+  // "terminal.integrated.rendererType": "dom",
+
+  //////////////////////////////////////////////////////////////////////////////
+  // GENERAL LANGUAGE SETTINGS /////////////////////////////////////////////////
+  //////////////////////////////////////////////////////////////////////////////
+
+  "files.defaultLanguage": "TypeScript",
+  "files.exclude": { "**/.git": false, "**/.history": true },
+  "files.hotExit": "onExitAndWindowClose",
+
+  // per-extension settings
+  "[json]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "[mdx]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "[markdown]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "[html]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "[css]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "[scss]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "[javascript]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "[javascriptreact]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "[typescript]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+  "[typescriptreact]": { "editor.defaultFormatter": "esbenp.prettier-vscode" },
+
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "javascript.preferences.quoteStyle": "single",
+  // "javascript.validate.enable": false,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "markdown.preview.openMarkdownLinks": "inEditor",
+  "markdown-preview-enhanced.liveUpdate": true,
+  "markdown.styles": [
+    "~/Library/Application Support/CustomMarkupCSS/minist.css"
+  ],
+
+  //////////////////////////////////////////////////////////////////////////////
+  // GENERAL EXTENSION SETTINGS ////////////////////////////////////////////////
+  //////////////////////////////////////////////////////////////////////////////
+
+  // eslint settings
+  "eslint.packageManager": "yarn",
+  "eslint.codeActionsOnSave": true,
+
+  // general git settings
+  "git.autofetch": true,
+  // "git.enableSmartCommit": true,
+
+  // gitlens inline settings
+  "gitlens.codeLens.enabled": true,
+  "gitlens.blame.avatars": false,
+  "gitlens.hovers.enabled": false,
+  "gitlens.hovers.currentLine.over": "line",
+  "gitlens.views.compare.location": "gitlens",
+  "gitlens.views.fileHistory.location": "gitlens",
+  "gitlens.views.lineHistory.location": "gitlens",
+  "gitlens.views.repositories.location": "gitlens",
+  "gitlens.views.search.location": "gitlens",
+
+  // gitlens sidebar settings
+  "gitlens.views.commits.avatars": false,
+  "gitlens.views.commits.files.layout": "list",
+  "gitlens.views.stashes.files.layout": "list",
+  "gitlens.menus": {
+    "editor": false,
+    "editorGroup": false,
+    "editorTab": false,
+    "explorer": false,
+    "scmGroup": false,
+    "scmItem": false
+  }
+}
