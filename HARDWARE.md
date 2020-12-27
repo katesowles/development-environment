@@ -24,6 +24,4 @@
 
   - Desktop sourced from [Webstaurant Store](https://www.webstaurantstore.com/)
 
-- [Herman Miller Aeron Chair](https://www.hermanmiller.com/products/seating/office-chairs/aeron-chairs/)
-
-  - Take care of your body -- seriously
+- [Herman Miller Aeron Chair (Take care of your body -- seriously)](https://www.hermanmiller.com/products/seating/office-chairs/aeron-chairs/)
