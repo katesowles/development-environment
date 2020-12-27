@@ -2,7 +2,7 @@
 
 ## Computer
 
-[Macbook Pro 16"](https://www.apple.com/macbook-pro-16/) or [Mac Mini](https://www.apple.com/mac-mini/)
+- [Macbook Pro 16"](https://www.apple.com/macbook-pro-16/) or [Mac Mini](https://www.apple.com/mac-mini/)
 
 ---
 
@@ -22,8 +22,8 @@
 
 - [Uplift Desk (frame only)](https://www.upliftdesk.com/2-leg-seated-height-side-table-frame-by-uplift-desk/)
 
-- Desktop sourced from [Webstaurant Store](https://www.webstaurantstore.com/)
+  - Desktop sourced from [Webstaurant Store](https://www.webstaurantstore.com/)
 
 - [Herman Miller Aeron Chair](https://www.hermanmiller.com/products/seating/office-chairs/aeron-chairs/)
 
-- Take care of your body -- seriously
+  - Take care of your body -- seriously
