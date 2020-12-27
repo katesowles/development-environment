@@ -18,7 +18,7 @@ This repository includes my general development environment configuration as wel
 - [Peripherals](https://github.com/katesowles/development-environment/blob/main/HARDWARE.md#peripherals)
 - [Desk & Chair](https://github.com/katesowles/development-environment/blob/main/HARDWARE.md#desk--chair)
 
-## Software
+## [Software](https://github.com/katesowles/development-environment/blob/main/SOFTWARE.md)
 
 - [Integrated Development Environment (IDE)](https://github.com/katesowles/development-environment/blob/main/SOFTWARE.md#integrated-development-environment-ide)
 - [Terminal](https://github.com/katesowles/development-environment/blob/main/SOFTWARE.md#terminal)
